@@ -28,7 +28,7 @@ const RESOURCES = {
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "62fa0ce72ddf9a22ac36d88cf9b28bfb",
 "index.html": "52bbdac81f105950ea0ec4d30743686f",
 "/": "52bbdac81f105950ea0ec4d30743686f",
-"main.dart.js": "7c251eb2479ef32e4882d8747ac03c16"
+"main.dart.js": "97a69a1cdf04d69fa1d394fd272a3922"
 };
 
 // The application shell files that are downloaded before a service worker can
